@@ -42,6 +42,7 @@ body{
     font-weight: lighter;
   }
   #footer{
+    list-style: none;
     padding: 30px;
     background: rgb(30, 30, 30);
     color: lightgrey;
