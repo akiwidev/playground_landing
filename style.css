@@ -45,9 +45,16 @@ body{
     font-weight: 300;
   }
   #footer{
-    padding: 30px;
-    background: rgb(30, 30, 30);
-    color: #eaffd0;
+    background: #eabf9f;
+    border: dotted;
+    color: #f14668;
+  }
+  #footer ul{
+    list-style-type: none;
+  }
+  #footer li{
+    display: inline;
+    padding: 15px;
   }
   .card{
     padding: 50px;
