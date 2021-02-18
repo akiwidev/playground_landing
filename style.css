@@ -1,8 +1,9 @@
 body{
-    background: rgb(245,245,245);
+    background-color: #ece2e1;
     color: #f38181;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Helvetica;
+    text-align: center;
   }
   h1{
     font-family: Courier;
@@ -12,9 +13,9 @@ body{
   }
   h2 {
     font-family: Courier;
-    color: pink;
+    color: #f14668;
     font-weight: lighter;
-    font-size: 8px;
+    font-size: 25px;
   }
   a {
     color: #f38181;
