@@ -1,6 +1,6 @@
 body{
     background: rgb(245,245,245);
-    color: green;
+    color: #f38181;
     font-size: 25px;
     font-family: Helvetica;
   }
@@ -17,35 +17,36 @@ body{
     font-size: 8px;
   }
   a {
-    color: yellow;
+    color: #f38181;
   }
   a:hover {
     text-decoration: none;
-    color: purple;
+    color: #95e1d3;
   }
   #banner{
     text-align: center;
     background-image: url("/images/cats\ &\ dogs.jpg");
+    margin: 0;
     background-size: cover;
     padding: 150px;
     color: white;
     text-shadow: 1px 1px 5px black;
   }
   #banner h1 {
-    color: white;
-    font-size: 50px;
+    color: #fce38a;
+    font-size: 60px;
+    font-weight: 500;
   }
   #banner p {
-    color: white;
+    color:white;
     opacity: 0.8;
     font-size: 30px;
     font-weight: lighter;
   }
   #footer{
-    list-style: none;
     padding: 30px;
     background: rgb(30, 30, 30);
-    color: lightgrey;
+    color: #eaffd0;
   }
   .card{
     padding: 50px;
