@@ -2,23 +2,24 @@ body{
     background-color: #ece2e1;
     color: #f38181;
     font-size: 20px;
-    font-family: Helvetica;
+    font-family: 'Truculenta', sans-serif;
     text-align: center;
   }
   h1{
-    font-family: Courier;
+    font-family: "Sofia", sans-serif;
     color: red;
     font-weight: lighter;
     font-size: 10px;
   }
   h2 {
-    font-family: Courier;
+    font-family: "Sofia", sans-serif;
     color: #f14668;
     font-weight: lighter;
     font-size: 25px;
   }
   a {
     color: #f38181;
+    font-family: 'Truculenta', sans-serif;
   }
   a:hover {
     text-decoration: none;
@@ -27,10 +28,8 @@ body{
   #banner{
     text-align: center;
     background-image: url("/images/cats\ &\ dogs.jpg");
-    margin: 0;
     background-size: cover;
     padding: 150px;
-    color: white;
     text-shadow: 1px 1px 5px black;
   }
   #banner h1 {
@@ -40,9 +39,10 @@ body{
   }
   #banner p {
     color:white;
-    opacity: 0.8;
-    font-size: 30px;
-    font-weight: lighter;
+    font-family: 'Truculenta', sans-serif;
+    opacity: 0.9;
+    font-size: 35px;
+    font-weight: 300;
   }
   #footer{
     padding: 30px;
