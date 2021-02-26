@@ -59,11 +59,11 @@ body{
     padding: 15px;
   }
   #footer a {
-    color: #F1CDE1;
+    color: #E86C60;
     font-size: 15px;
   }
   #footer a:hover {
-    color: white;
+    color: #ECE2E1;
   }
   .card{
     padding: 50px;
