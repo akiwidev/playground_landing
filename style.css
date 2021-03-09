@@ -21,13 +21,10 @@ body{
     color: #f38181;
     font-family: 'Truculenta', sans-serif;
   }
-  a:hover {
-    text-decoration: none;
-    color: #1687a7;
-  }
+  
   #banner{
     text-align: center;
-    background-image: url("/images/cats\ &\ dogs.jpg");
+    background-image: url("images/catsanddogs.jpg");
     background-size: cover;
     padding: 150px;
     text-shadow: 1px 1px 5px black;
@@ -53,21 +50,17 @@ body{
   #footer ul{
     list-style-type: none;
   }
-   
   #footer a {
     color: #E86C60;
     font-size: 20px;
   }
-
   #footer a:hover {
     color: #ECE2E1;
   }
-
   .card{
     padding: 20px;
     font-weight: lighter;
   }
-
   .padding-margin{
     padding: 10px;
     margin: 10px;
